@@ -1,0 +1,7 @@
+<com.nc.user.dragviewdemo.DragView
+    android:id="@+id/main_touchview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+</com.nc.user.dragviewdemo.DragView>
